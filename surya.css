@@ -1,0 +1,47 @@
+#headbar
+{
+	background-color:#3333cc;
+	color: white;
+	padding-top: 0.5%;
+	padding-bottom:;
+}
+
+#head {
+	width: 98%;
+	margin-left:2%;
+	text-align: center;
+	line-height: 1.8;
+}
+
+#head a {
+	color: white;
+	text-decoration: none;
+	font-size: 90%;
+	font-family: "Gill Sans", sans-serif;
+}
+
+#head-2 #table_1
+{
+	width: 100%;
+}
+#head-2 #table_2
+{
+	color: darkblue;
+	width: 41%;
+	margin-left: 40%;
+}
+#head-2 #table_3
+{
+	width:100%;
+	margin-left: 1%;
+}
+
+#head-2 #table_4
+{
+	width:95%;
+	margin-left: 2%;
+}
+#dd
+{
+	background-color: #85C1E9;
+}
